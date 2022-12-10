@@ -74,7 +74,7 @@
 ## 내가 한 구현 기능
 
 - 카카오 소셜 로그인 기능
-kakao developers 공식문서를 활용.
-REST API를 사용하여 Redirect URI로 인가 코드를 받고, 인가 코드 요청으로 토큰을 받는 흐름.
-fetch 함수를 이용하여 post 방식으로 요청을 보내서 localstorage에 토큰 저장.
+kakao developers 공식문서를 활용. </br>
+REST API를 사용하여 Redirect URI로 인가 코드를 받고, 인가 코드 요청으로 토큰을 받는 흐름. </br>
+fetch 함수를 이용하여 post 방식으로 요청을 보내서 localstorage에 토큰 저장. </br>
 
